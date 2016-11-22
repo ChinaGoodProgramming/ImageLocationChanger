@@ -1,0 +1,2 @@
+# ImageLocationChanger
+可以修改图片的地址信息，可以让其他应用读出你想要的位置信息
